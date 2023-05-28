@@ -62,15 +62,15 @@ my sql> SELECT MAX(gaji) AS TERMAHAL FROM data_pegawai;
 
 # KESIMPULAN
 
-    > Operator relasional adalah elemen sintaksis yang dapat menerima satu atau beberapa parameter input
-bernamaatau tidak bernama dan mengembalikan tataan hasil. Operator relasional digunakan sebagai sumber tabel dalam pertanyaan DML.
-Didalam basis data query filtering sangat membantu dalam memfilter atau membandingkan dua buah nilai atau menentukan relasi atau hubungan dari dua buah operand dengan menggunakan perintah operator sebagai berikut :
- = (sama dengan),
- > (lebih besar),
- < (kurang dari),
- >= (lebih besar sama dengan),
- <= (kurang dari sama dengan), dan
- <> (tidak sama dengan)
+        Operator relasional adalah elemen sintaksis yang dapat menerima satu atau beberapa parameter input bernama atau tidak bernama dan mengembalikan tataan hasil. Operator relasional digunakan sebagai sumber tabel dalam pertanyaan DML.
+        Didalam basis data query filtering sangat membantu dalam memfilter atau membandingkan dua buah nilai atau menentukan relasi atau hubungan dari dua buah operand dengan menggunakan perintah operator sebagai berikut :
+
+        = (sama dengan),
+        > (lebih besar),
+        < (kurang dari),
+        >= (lebih besar sama dengan),
+        <= (kurang dari sama dengan), dan
+        <> (tidak sama dengan)
 
 # PRAKTIKUM 4_1
 Praktikum 4_1
